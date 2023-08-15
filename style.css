@@ -1,0 +1,43 @@
+html{
+    background-color: black;
+}
+.pic{
+    height: 200px;
+    margin-left: 1%;
+
+    
+   
+}
+#main{
+   
+    font-size: 150%;
+    color: white;
+    text-align: center;
+    font-family: "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap";
+}
+#second{
+    margin: 10px;
+   
+}
+#photo{
+    height: 200px;
+    width: 100%;
+    border: 3px solid rgb(209, 230, 22);
+}
+#text{
+    color: white;
+    
+   
+    font-size: 1rem;
+}
+#third{
+    margin: 10px;
+    color: white;
+
+}
+a{
+    color: white;
+}
+
+
+
